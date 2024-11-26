@@ -4,7 +4,7 @@ import { SiMinutemailer } from "react-icons/si";
 
 const Contacts = () => {
           return (
-                    <section className='bg-secondary dark:bg-stone-800 dark:text-white text-black'>
+                    <section id='contact' className='bg-secondary dark:bg-stone-800 dark:text-white text-black'>
                               <div className='container py-10 lg:py-16 px-4'>
                                         <div className='text-center mb-10'>
                                                   <SiMinutemailer className='inline-block text-6xl' />

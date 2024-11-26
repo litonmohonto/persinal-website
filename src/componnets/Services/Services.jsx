@@ -6,7 +6,7 @@ import { FaColumns } from "react-icons/fa";
 
 const Services = () => {
           return (
-                    <section className='bg-secondary dark:text-white dark:bg-slate-900'>
+                    <section id='services' className='bg-secondary dark:text-white dark:bg-slate-900'>
                               <div className='container py-10 lg:py-16 px-4'>
                                         <div className='text-center '>
                                                   <h2 className='text-3xl lg:text-5xl font-bold mb-5 relative'>SERVICES</h2>

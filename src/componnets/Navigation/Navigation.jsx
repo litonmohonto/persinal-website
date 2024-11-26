@@ -22,7 +22,7 @@ const Navigation = () => {
                                                                       {navlinks.map((navLink) => {
                                                                                 return (
                                                                                           <li key={navLink.id}>
-                                                                                                    <a href={navLink.link} className='text-xl hover:text-primary duration-300  font-semibold capitalize' > {navLink.name}</a>
+                                                                                                    <a href={navLink.link} className='text-xl  hover:text-primary duration-300  font-semibold capitalize scroll-smooth' > {navLink.name}</a>
                                                                                           </li>
                                                                                 )
                                                                       })}

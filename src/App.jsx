@@ -9,7 +9,7 @@ import Footer from './componnets/Footer/Footer'
 
 const App = () => {
           return (
-                    <div>
+                    <div >
                               <Navigation />
                               <Home />
                               <About />

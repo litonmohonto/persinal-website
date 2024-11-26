@@ -5,7 +5,7 @@ import pmg from '../../assets/images/home.png'
 
 const Home = () => {
           return (
-                    <div className='bg-secondary dark:bg-gray-900 dark:text-white text-black '>
+                    <div id='home' className='bg-secondary dark:bg-gray-900 dark:text-white text-black  '>
                               <div className='container h-full  lg:h-[800px]'>
                                         <div className='grid grid-cols-1 lg:grid-cols-2 items-center gap-20 py-16'>
                                                   <div className='text-center lg:text-left'>

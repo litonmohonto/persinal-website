@@ -7,7 +7,7 @@ import { SiTailwindcss } from "react-icons/si";
 
 const Skills = () => {
           return (
-                    <section className='bg-secondary dark:bg-slate-800 dark:text-white px-4 '>
+                    <section id='skills' className='bg-secondary dark:bg-slate-800 dark:text-white px-4 '>
                               <div className='container py-10 lg:py-16'>
                                         <div className='grid grid-cols-1 lg:grid-cols-2 items-center'>
                                                   <div className='space-y-10'>
